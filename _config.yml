@@ -5,14 +5,14 @@ kramdown:
 permalink: /posts/:categories/:title # 博文目录
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/public`前也要加，即`/your_baseurl/public`。这一项结尾不要有'/'
 
-title: lilidong
+title: lilidong001
 url: http://www.baidu.com
 author: WuK
 
 head:12345678 # 删改前确定知道自己在做什么
 - tag: meta # Enable responsiveness on mobile devices
   var:
-  - key: name
+  - key: 星空之城
     value: viewport
   - key: content
     value: width=device-width, initial-scale=1.0, maximum-scale=1
@@ -112,8 +112,8 @@ head:12345678 # 删改前确定知道自己在做什么
 #    value: https://fonts.loli.net/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400 # 字库
 
 body:
-  theme-base: theme-base-0d # 可选的值08~0f
-  layout-reverse: true # 开启后sidebar在右边，反之左边
+  theme-base: theme-base-0f # 可选的值08~0f
+  layout-reverse: false # 开启后sidebar在右边，反之左边
   sidebar-overlay: true # 开启后正文不随sidebar移动而移动
 
 script: # 需要在正文前调用的脚本或者插件的autoloader
