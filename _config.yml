@@ -9,7 +9,7 @@ title: lilidong001
 url: http://www.baidu.com
 author: WuK
 
-head:12345678 # 删改前确定知道自己在做什么
+head: # 删改前确定知道自己在做什么
 - tag: meta # Enable responsiveness on mobile devices
   var:
   - key: 星空之城
